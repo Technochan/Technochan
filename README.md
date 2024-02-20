@@ -130,27 +130,21 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Profile Stats
 
-<details><summary><h3> 🔥 LeetCode Stats</h3></summary>
+<summary><h3> 🔥 LeetCode Stats</h3></summary>
 
-----	
+
 
 <p align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW2WpzDM7afgeRWzlhJQSvmZdpmhW57wtGK0LmEigDcgH6ND0MJQtrAaXan7R087wVH4ov9W6Z-kKAm48QD69kdAuMXl2X-ieZF-Bkp6rmCT6uJl7upb2JBsRNSTEbF5yJVxMNCxeP_rIHnnHZllU9GOcPxR8WuOv5lTLhImHLIAE_lcN8EK3GTuLW_gu9/s16000/leetcode.png" alt="leeocode" /></p>
 
-</details>
-  
-<details><summary><h3>💻 GeeksforGeeks Stats</h3></summary>
 
-----
+  
+<summary><h3>💻 GeeksforGeeks Stats</h3></summary>
+
+
 	
 <p align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhztTMTyVDuTnFZ-avCkUzlEgAkpfPFu4xOkXp8spq8bMnvO8Yps0aE8Wcrl-TnL7nMaWNd6S-2kNI2nrUJ56URMTE5_QHtztwCltc19wHTXjUkthhNrMUVvC8t4DR6MzVb3axxYnisN6mi4HIxTmx04KDwcXis4DeSbF-8kIXvrvnMiyr-eP8QZoZ7eSRR/s16000/GFG.png" alt="GeeksforGeeks" /></p>
 <br/>
-</details>
+
 
 
 </br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
