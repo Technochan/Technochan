@@ -32,13 +32,13 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width = 60px height = 60px /></a>	
+	<a href="https://leetcode.com/TechnoChandru/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width = 60px height = 60px /></a>	
 	  &emsp; 
 	 &emsp; 
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width = 60px height = 60px /></a>
+	<a href="https://www.codechef.com/users/technochandru"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width = 60px height = 60px /></a>
 	  &emsp; 
 	 &emsp; 
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://geeksforgeeks.zohorecruit.in/recruit/viewCareerImage.do?page_id=61093000000211152&type=logo&file_name=GG_Logo.png" alt="GFG" width = 60px /></a>     
+	<a href="https://auth.geeksforgeeks.org/user/technochandru"><img src="https://geeksforgeeks.zohorecruit.in/recruit/viewCareerImage.do?page_id=61093000000211152&type=logo&file_name=GG_Logo.png" alt="GFG" width = 60px /></a>     
 	
 </p>
 
@@ -52,7 +52,7 @@
 	  &emsp; 
 	<a href="https://www.linkedin.com/in/chandru-s-5a60a4275"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"  width = 100px height = 30px/></a>
 	  &emsp; 
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"  width = 100px height = 30px/></a>
+	<a href="https://www.instagram.com/thzischan/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"  width = 100px height = 30px/></a>
 </p>
 
 
