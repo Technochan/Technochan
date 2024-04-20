@@ -131,7 +131,7 @@
 
 
 
-<p align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW2WpzDM7afgeRWzlhJQSvmZdpmhW57wtGK0LmEigDcgH6ND0MJQtrAaXan7R087wVH4ov9W6Z-kKAm48QD69kdAuMXl2X-ieZF-Bkp6rmCT6uJl7upb2JBsRNSTEbF5yJVxMNCxeP_rIHnnHZllU9GOcPxR8WuOv5lTLhImHLIAE_lcN8EK3GTuLW_gu9/s16000/leetcode.png" alt="leeocode" /></p>
+<p align="center"><img src="https://github.com/Technochan/Technochan/assets/133956496/550c6c39-e0b2-4542-82cb-b2005e8ff8e8" alt="leetcode" /></p>
 
 
   
@@ -139,7 +139,7 @@
 
 
 	
-<p align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhztTMTyVDuTnFZ-avCkUzlEgAkpfPFu4xOkXp8spq8bMnvO8Yps0aE8Wcrl-TnL7nMaWNd6S-2kNI2nrUJ56URMTE5_QHtztwCltc19wHTXjUkthhNrMUVvC8t4DR6MzVb3axxYnisN6mi4HIxTmx04KDwcXis4DeSbF-8kIXvrvnMiyr-eP8QZoZ7eSRR/s16000/GFG.png" alt="GeeksforGeeks" /></p>
+<p align="center"><img src="https://github.com/Technochan/Technochan/assets/133956496/b879697e-7973-4805-b2d5-bd1f5cbb7ba0" alt="GeeksforGeeks" /></p>
 <br/>
 
 
